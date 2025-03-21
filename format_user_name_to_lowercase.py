@@ -2,4 +2,4 @@
 user_name = input("Enter your full name: ")
 
 #Capitalize and Print Output
-print("Name:", user_name.upper())
+print("Name:", user_name.lower())
